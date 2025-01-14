@@ -1,0 +1,7 @@
+print()
+println()  meaning print line
+printf() meaning print format
+
+cd means change DIRECTORY 
+windows v (to bring out your clipboard)
+ASDF BRAND
